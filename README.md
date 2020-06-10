@@ -1,6 +1,30 @@
 # music_player
 
-A new Flutter project.
+Projeto feito baseado nesta Ui https://www.behance.net/gallery/79621611/Free-UI-Kit-MusicBox-70-Screens?tracking_source=search_projects_recommended%7Ckit%20free%20app
+
+Projeto Original  Adobe XD
+![Screenshot_3](https://user-images.githubusercontent.com/21180447/84213788-f6770400-aa97-11ea-8fea-3263d1f5a74f.png)
+
+
+Tela de Login Implementada no Flutter 
+![readme music app](https://user-images.githubusercontent.com/21180447/84213610-84062400-aa97-11ea-8855-23d3156b2793.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Getting Started
 
